@@ -9,8 +9,9 @@
 # Program Explanation Scratch (Week 2)
 [Video](https://drive.google.com/file/d/141_bMbrxxbil5YaMzvZvNZ4RvQD56045/view?usp=sharing)
 
-# Program Explanation (Week 3)
-[Video]()
+# Program Explanation 1 (Week 3)
+[Video](https://drive.google.com/file/d/1lGq2jW2t5HQZcI8BYp5-C9C2cegThBO9/view?usp=sharing)
+
 
 # Program Explanation 2 (Week 3)
-[Video](https://drive.google.com/file/d/1lGq2jW2t5HQZcI8BYp5-C9C2cegThBO9/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1hLhOIWPxP7A4v-xXCYpIzTiCl7064HtC/view?usp=sharing)
