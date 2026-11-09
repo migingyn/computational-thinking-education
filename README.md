@@ -20,3 +20,6 @@
 
 # Program Explanation 1 (Week 5)
 [Video](https://drive.google.com/file/d/1hxrHRd_WfxV9wFm1ezAYIWI-ofXeEC6t/view?usp=sharing)
+
+# Program Explanation 1 (Week 6)
+[Video](https://drive.google.com/file/d/1VSsFpceeEHF-Kk1aD6HZBJyJ5zCNultL/view?usp=sharing)
