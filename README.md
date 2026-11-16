@@ -23,3 +23,7 @@
 
 # Program Explanation 1 (Week 6)
 [Video](https://drive.google.com/file/d/1VSsFpceeEHF-Kk1aD6HZBJyJ5zCNultL/view?usp=sharing)
+
+
+# Program Explanation 1 (Week 7)
+[Video](https://drive.google.com/file/d/1VSsFpceeEHF-Kk1aD6HZBJyJ5zCNultL/view?usp=sharing)
